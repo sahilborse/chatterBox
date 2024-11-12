@@ -10,7 +10,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)",
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
     "@types/express": "^5.0.0",
@@ -20,11 +20,13 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.6.4",
     "path": "^0.12.7",
     "socket.io": "^4.8.0"
-  }
+  },
+  "keywords": []
 }
